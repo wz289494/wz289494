@@ -23,11 +23,6 @@ Facebook :
 
 https://github.com/wz289494/Crawl_Facebook_User
 
-Hotsearch in every filds : 
-
-https://github.com/wz289494/Crawl_Hotsearch
-
-
 🤔There are two more fun projects below:
 
 If on social media platforms, you cannot clearly see the reply relationships, why not structure them as a tree?
