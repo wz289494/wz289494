@@ -5,12 +5,6 @@ This repository primarily contains web scraping projects for various data source
 
 🤔If you are interested in web scraping related projects, you definitely can't miss the following:
 
-Douyin/Tiktok : 
-
-https://github.com/wz289494/Crawl_Douyin_video
-
-https://github.com/wz289494/Crawl_Douyin_uservideoinfo
-
 Weibo : 
 
 https://github.com/wz289494/Crawl_Weibo_repost
