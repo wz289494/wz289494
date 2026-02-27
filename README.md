@@ -1,36 +1,28 @@
-Welcome to My GitHub Repository
+Hi, I'm zanekwu 👋
 
-This repository primarily contains web scraping projects for various data sources, as well as practical tasks related to social media studies.
+Deep in vibe-coding mode – building AI agents, automation tools, and intelligent data systems at ludicrous speed.
+Focused on LLM applications, autonomous agents, and end-to-end information gathering workflows.
 
+## Current Projects
+• 📰 AI News & Public Opinion Collector – intelligent aggregation & analysis for next-gen information systems
+• 🤖 Autonomous Agent Framework – building agents that actually work & execute tasks
+• ⚡ Automation Toolchain – one-click workflows for data, scraping, processing & reporting
+• 📦 LLM Toolkit – prompt, token, cost, and pipeline utilities for developers
+• 🔗 API Integrator – connect & automate everything with Python & Node.js
 
-🤔If you are interested in web scraping related projects, you definitely can't miss the following:
+## What I'm Doing
+• Living in the future – researching & building agentic AI systems
+• Open-source tools for AI & automation
+• Focus: information gathering, LLM agents, workflow automation
 
-Weibo : 
+## Skills
+• Python / Node.js
+• LLM & Prompt Engineering
+• AI Agent Development
+• Data Scraping & Processing
+• Automation & Workflow Tools
+• API Integration & Bot Systems
 
-https://github.com/wz289494/Crawl_Weibo_repost
-
-https://github.com/wz289494/Crawl_Weibo_comment
-
-https://github.com/wz289494/Crawl_Weibo_search
-
-Facebook : 
-
-https://github.com/wz289494/Crawl_Facebook_User
-
-🤔There are two more fun projects below:
-
-If on social media platforms, you cannot clearly see the reply relationships, why not structure them as a tree?
-
-https://github.com/wz289494/Comments_Tree
-
-When you have a very large node graph, try to partition it in the following way:
-
-https://github.com/wz289494/Connected_Component_Graph
-
-
-📧 Welcome, I'm glad to communicate with you. 
-
-Email 21322069@bjtu.edu.cn
-
-wechat w17570661760
-
+## Connect
+• GitHub: @zanekwu
+• Email: 2894949117@qq.com
