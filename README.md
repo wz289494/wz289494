@@ -14,15 +14,6 @@ Focused on LLM applications, autonomous agents, and end-to-end information gathe
 
 • Focus: information gathering, LLM agents, workflow automation
 
-### Skills
-• Python / Node.js
-
-• LLM & Prompt Engineering
-
-• AI Agent Development
-
-• Data Scraping & Processing
-
 ### Connect
 • GitHub: @zanekwu
 
