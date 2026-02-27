@@ -6,9 +6,7 @@ Focused on LLM applications, autonomous agents, and end-to-end information gathe
 
 ### Current Projects
 
-• 📰 [iofeed](https://github.com/wz289494/iofeed)  
-
-  An intelligent news aggregation platform focused on the AI field, automatically collecting, processing, and displaying the latest updates from Twitter, YouTube, and arXiv. Powered by LLM-driven data enhancement, it provides Chinese titles, summaries, quality scores, and multi-dimensional analysis, supporting cross-source daily summaries and technical sentiment insights. Built with FastAPI + React + TypeScript, featuring scheduled tasks, Redis caching, API signature verification, and rate limiting to help developers efficiently track cutting-edge AI developments.
+• 📰 [iofeed](https://github.com/wz289494/iofeed) : An intelligent news aggregation platform focused on the AI field, automatically collecting, processing, and displaying the latest updates from Twitter, YouTube, and arXiv. Powered by LLM-driven data enhancement, it provides Chinese titles, summaries, quality scores, and multi-dimensional analysis, supporting cross-source daily summaries and technical sentiment insights. Built with FastAPI + React + TypeScript, featuring scheduled tasks, Redis caching, API signature verification, and rate limiting to help developers efficiently track cutting-edge AI developments.
 
 ### What I'm Doing
 
