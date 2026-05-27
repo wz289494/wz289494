@@ -10,6 +10,8 @@ Focused on LLM applications, autonomous agents, and end-to-end information gathe
 
 • 📰 [anyclaw](https://github.com/wz289494/anyclaw) : A CLI Agent framework built on LangChain, adopting the ReAct (Reasoning + Acting) paradigm. It supports multiple LLM providers including OpenAI, Gemini, Qwen, DeepSeek, and Kimi, and features streaming responses, session persistence, tool extensibility, Token tracking, message compression, and more. Through vibe coding for simple configuration and tool integration, developers can quickly build general-purpose or vertical-specific Agents without deep diving into the underlying framework implementation.
 
+• 📰 [WebCLI](https://github.com/wz289494/webcli) : WebCLI is a command-line bridging tool built with Python and Chrome Extensions. It enables both human users and agents to control the real Chrome browser via the terminal.
+
 ### What I'm Doing
 
 • Living in the future – researching & building agentic AI systems
